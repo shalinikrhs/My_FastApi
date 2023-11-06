@@ -1,0 +1,5 @@
+fastapi==0.80.0
+fastapi-responses==0.2.1
+fastapi-utils==0.2.1
+uvicorn==0.18.3
+pymongo==4.5.0
